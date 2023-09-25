@@ -1,2 +1,2 @@
 # MiniMinecraft
-This is simple 3D game like Minecraft
+Это простая трехмерная игра, созданная по мотивам игры Майнкрафт
